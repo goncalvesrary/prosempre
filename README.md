@@ -2,7 +2,7 @@
 
 Site desenvolvido para avaliação de desafio do ProSEmpre 2019.2 da Empresa Júnior da Escola de Ciências e Tecnologia.
 
-## Acesse o site
+## Acesse o Site
 
 Para acessar o site, basta entrar no link abaixo:
 
