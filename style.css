@@ -105,6 +105,10 @@ header {
   padding-bottom: 10px;
 }
 
+.paragraph-content p {
+  padding-top: 20px;
+}
+
 #about {
   background-color: #E6E6E6;
   color: #2E2E2E;
