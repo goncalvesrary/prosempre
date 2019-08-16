@@ -40,10 +40,12 @@ header {
 .logo {
   cursor: pointer;
   color: #E6E6E6;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .navbar {
   list-style: none;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .navbar li {
@@ -77,6 +79,7 @@ header {
 
 #name h1{
   text-align: right;
+  font-family: 'Lato', sans-serif;
   /*background-color: red;*/
   color: #2E2E2E;
   font-size: 65px;
@@ -96,6 +99,7 @@ header {
 /* CSS Section */
 .title-content {
   text-align: center;
+  font-family: 'Lato', sans-serif;
   padding-top: 10px;
 }
 
@@ -106,6 +110,7 @@ header {
 }
 
 .paragraph-content p {
+  font-family: 'Open Sans', sans-serif;
   padding-top: 20px;
 }
 
@@ -143,10 +148,12 @@ header {
 
 .title-contact {
   text-align: center;
+  font-family: 'Lato', sans-serif;
 }
 
 .social-icons {
   text-align: center;
+  padding-top: 20px;
 }
 
 .social-icons img{
@@ -166,6 +173,7 @@ footer {
 footer p {
   color: #E6E6E6;
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
   padding-bottom: 5px;
 }
 /* end */
