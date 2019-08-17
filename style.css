@@ -80,7 +80,6 @@ header {
 #name h1{
   text-align: right;
   font-family: 'Lato', sans-serif;
-  /*background-color: red;*/
   color: #2E2E2E;
   font-size: 65px;
   width: 800px;
@@ -96,7 +95,7 @@ header {
 }
 /* end */
 
-/* CSS Section */
+/* CSS Contact */
 .title-content {
   text-align: center;
   font-family: 'Lato', sans-serif;
@@ -111,31 +110,32 @@ header {
 
 .paragraph-content p {
   font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
   padding-top: 20px;
 }
 
 #about {
   background-color: #E6E6E6;
   color: #2E2E2E;
-  padding: 40px 100px;
+  padding: 50px 200px;
 }
 
 #formation {
   background-color: rgba(46, 46, 46, 0.5);
   color: #E6E6E6;
-  padding: 40px 100px;
+  padding: 50px 200px;
 }
 
 #interests {
   background-color: #E6E6E6;
   color: #2E2E2E;
-  padding: 40px 100px;
+  padding: 50px 200px;
 }
 
 #curiosities {
   background-color: rgba(46, 46, 46, 0.5);
   color: #E6E6E6;
-  padding: 40px 100px;
+  padding: 50px 200px;
 }
 /* end */
 
@@ -143,7 +143,7 @@ header {
 #contact {
   background-color: #E6E6E6;
   color: #2E2E2E;
-  padding: 40px 100px;
+  padding: 50px 200px;
 }
 
 .title-contact {
@@ -168,7 +168,7 @@ header {
 /* CSS Footer*/
 footer {
   background-color: rgba(46, 46, 46, 0.8);
-  padding-top: 40px;
+  padding-top: 50px;
 }
 
 footer p {
