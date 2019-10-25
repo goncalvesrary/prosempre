@@ -11,4 +11,4 @@ Site desenvolvido para avaliação do Processo Seletivo (ProSEmpre) 2019.2 da Em
 
 Para acessar o site, basta entrar no link abaixo:
 
-https://goncalvesrary.github.io/prosempre/
+https://raryegoncalves.github.io/prosempre/
